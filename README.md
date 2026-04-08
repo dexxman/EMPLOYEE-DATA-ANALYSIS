@@ -10,6 +10,13 @@ This interactive **Employee Data Analysis Dashboard** provides deep insights int
 **Average Employee Age**: 36.92 years
 
 ---
+<img width="1299" height="744" alt="Screenshot 2026-04-08 114934" src="https://github.com/user-attachments/assets/9d623170-5c14-494b-a064-c475a5f9768f" />
+
+<img width="1315" height="723" alt="Screenshot 2026-04-08 114950" src="https://github.com/user-attachments/assets/f058744a-e5e5-47ac-9fbc-09e309269ada" />
+
+<img width="1315" height="740" alt="Screenshot 2026-04-08 173529" src="https://github.com/user-attachments/assets/a9dc5e83-8608-4e22-9f9b-e1610d3484aa" />
+
+
 
 ## 🔍 Key Analysis
 
